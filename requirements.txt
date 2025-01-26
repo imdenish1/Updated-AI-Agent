@@ -1,0 +1,7 @@
+
+streamlit
+sentence-transformers
+PyPDF2
+python-docx
+openpyxl
+pandas
